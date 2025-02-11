@@ -9,5 +9,9 @@ Welcome to Chenskiro's Custom Minecraft Skin Library! Here you will find a colle
 | Kazamata Neri   | ![](./gifs/Kazamata_Neri.gif)   |
 | Nikaidou Shinku | ![](./gifs/Nikaidou_Shinku.gif) |
 
-希望您喜欢这些皮肤，并在游戏中享受它们！
 We hope you enjoy these skins and have fun using them in the game!
+
+希望您喜欢这些皮肤，并在游戏中享受它们！
+
+# LICENSE
+GNU General Public License v3.0
